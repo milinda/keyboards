@@ -7,3 +7,6 @@
 [submodule "SMKJP_kicad_components"]
 	path = SMKJP_kicad_components
 	url = https://github.com/hsgw/SMKJP_kicad_components.git
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
